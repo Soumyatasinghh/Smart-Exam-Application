@@ -26,3 +26,8 @@ The application is designed to conduct mock tests with section-wise selection in
 3. Run the command:
    ```bash
    python smartexam.py
+   
+---
+
+## 👨‍💻 Developed By
+Soumyata Singh
